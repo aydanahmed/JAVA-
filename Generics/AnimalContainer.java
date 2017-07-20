@@ -17,8 +17,7 @@ public class AnimalContainer<T extends Animal> {
 
     public void printAllSounds() {
         for (T t : col) {
-            // Illegal, type T doesn't have makeSound()
-            // it is used as an java.lang.Object here
+          
             System.out.println(t.getSound()); 
         }
     }

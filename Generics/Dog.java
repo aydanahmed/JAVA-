@@ -1,5 +1,7 @@
 package test;
 
-public class Dog {
-
+public class Dog extends Animal {
+    public String getSound() {
+        return "Woof";
+    }
 }
