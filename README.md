@@ -1,2 +1,2 @@
 # JAVA 8
-# Java 8 Exercises
+This is a simple library containing classes full of helpful methods for Java programmers
